@@ -51,12 +51,12 @@
 }
 
 /* 7 */
-.parent {
+.parent>.child {
   border: 3px solid darkorchid;
 }
 
 /* 8 */
-.parent1 {
+.parent1 div {
   border: 3px solid darkorchid;
 }
 
