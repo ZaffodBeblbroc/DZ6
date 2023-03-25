@@ -61,11 +61,11 @@
 }
 
 /* 9 */
-.title {
+.title + p {
   color: forestgreen;
 }
 
 /* 10 */
-.title1 {
+.title1 ~ p {
   color: fuchsia;
 }
