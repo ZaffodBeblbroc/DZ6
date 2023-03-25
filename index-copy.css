@@ -14,17 +14,17 @@
 }
 
 /* 4 */
-* {
+.password {
   background-color: coral;
 }
 
 /* 5 */
-* {
+.email {
   background-color: cyan;
 }
 
 /* 6 */
-* {
+.checkbox:checked {
   width: 30px;
   height: 30px;
 }
