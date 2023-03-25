@@ -1,15 +1,15 @@
 /* 1 */
-* {
+.text-color:hover {
   color: red;
 }
 
 /* 2 */
-* {
+.text{
   border: 1px solid yellowgreen;
 }
 
 /* 3 */
-* {
+.link:visited {
   color: lightgrey;
 }
 
